@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Recipes</string>
+
+    <string-array name="recipes">
+        <item>Pasta Carbonara</item>
+        <item>Mac and Cheese</item>
+        <item>Pizza</item>
+        <item>Spaghetti</item>
+        <item>Caesar Salad</item>
+        <item>Steak</item>
+        <item>Turkey</item>
+        <item>Mashed Potatoes</item>
+        <item>Brownies</item>
+        <item>Quesedillas</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Eggy Spaghetti</item>
+        <item>Cheesy Pasta</item>
+        <item>Cheesy Tomato Bread</item>
+        <item>Tomato Spaghetti</item>
+        <item>Salad is good for you!</item>
+        <item>Steak is delicious!!!</item>
+        <item>*Gobble Gobble*</item>
+        <item>Goes well with turkey</item>
+        <item>Dessert is great for you!</item>
+        <item>Pretty awesome</item>
+    </string-array>
+</resources>
